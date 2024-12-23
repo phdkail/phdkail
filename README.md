@@ -1,7 +1,7 @@
 <img src="./assets/greetings.gif">
 
 
-# **Hi, I'm Ivan. I'm a software developer. I love learning, programming, traveling and know the world.**
+# **Hi, I'm Kail. I'm a software developer. I love learning, programming, traveling and know the world.**
 
 - 👀 I’m interested in software development and new tecnologies
 - 🌱 I’m currently learning full stack
